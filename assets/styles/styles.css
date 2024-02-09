@@ -1,0 +1,13 @@
+body {
+font-size: 15pt;
+color: #d10000;
+font-family: math;
+}
+h1 {
+text-align: center;
+font-size: 25pt;
+font-family: monospace;
+}
+div {
+margin: 2% 5%;
+}
